@@ -1,0 +1,6 @@
+.vscode
+.xmake
+build/
+*.log
+*.db
+compile_commands.json
